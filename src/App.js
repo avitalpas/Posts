@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Post from "./components/Post.js";
+import {HashRouter as Router, Switch, Route, Link} from 'react-router-dom'
 import AddPost from "./components/AddPost.js";
 
 import "./App.css";

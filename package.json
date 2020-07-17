@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://avitalpas.github.io/Posts",
+  "homepage": "https://avitalpas.github.io/Posts/",
   "dependencies": {
     "cra-template": "1.0.3",
     "react": "^16.13.1",
